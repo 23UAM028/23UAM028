@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dikshant Dhanawade!
+# 👋 Hi , I'm Dikshant Dhanawade!
 
 🎓 B.Tech Student | 💻 Front-End Developer | ☕ Java & Python Enthusiast
 
